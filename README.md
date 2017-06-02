@@ -27,3 +27,8 @@ subjectText = 'Workers are down: '
 
 - Email Body Text:
 body = "Time is money!."
+
+# Dependencies
+Python 2.7.8
+requests 2.11.1
+urllib
