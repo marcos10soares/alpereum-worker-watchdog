@@ -31,7 +31,7 @@ body = "Time is money!."
 
 # Notes
 1. Checking for changes takes between 60 and 120 seconds (there is no need to be always checking).<br />
-2- Alpereum API refresh rate can take up to 30min to update.<br />
+2. Alpereum API refresh rate can take up to 30min to update.<br />
 3. Subject of email notification will show which workers are down.
 
 # Dependencies
