@@ -1,5 +1,6 @@
 # alpereum-worker-watchdog
 Python watchdog to monitor your workers from ethereum pool Alpereum. Monitor if workers are online, current mining hashrate and receive email notifications if your workers become offline.<br />
+Ethereum mining pool - Alpereum: https://www.alpereum.ch/ <br />
 If this helps you, feel free to donate to my ETH wallet: 0x6B298eAaB45794A427376F56AD199f00FF3a87d0
 
 # Usage
