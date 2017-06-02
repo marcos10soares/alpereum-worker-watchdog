@@ -29,6 +29,10 @@ subjectText = 'Workers are down: '
 - Email Body Text:<br />
 body = "Time is money!."
 
+# Notes
+Checking for changes takes between 60 and 120 seconds (there is no need to be always checking).<br />
+Alpereum API refresh rate can take up to 30min to update.
+
 # Dependencies
 Python 2.7.8 <br />
 requests 2.11.1 <br />
