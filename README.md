@@ -7,23 +7,23 @@ If this helps you, feel free to donate to my ETH wallet: 0x6B298eAaB45794A427376
 2. run alpereum-worker-watchdog_v1.0.py
 
 # Config.py
-#Your ethereum wallet to watch
+- Your ethereum wallet to watch:
 address = "0x6B298eAaB45794A427376F56AD199f00FF3a87d0"
 
-#Your workers name
+- Your workers name:
 workers = {'WorkerName1', 'WorkerName2', 'WorkerName3'}
 
-#Gmail Account email:
+- Gmail Account email:
 smtpUser = 'youremail@gmail.com'
 
-#Gmail Account password:
+- Gmail Account password:
 smtpPass = 'YourPa$$word'
 
-#To Email - to receive notification
+- To Email - to receive notification
 toEmail = 'destinationemail@gmail.com'
 
-#Subject Text
+- Subject Text
 subjectText = 'Workers are down: '
 
-#Email Body Text
+- Email Body Text
 body = "Time is money!."
