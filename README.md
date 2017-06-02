@@ -19,11 +19,11 @@ smtpUser = 'youremail@gmail.com'
 - Gmail Account password:
 smtpPass = 'YourPa$$word'
 
-- To Email - to receive notification
+- To Email - to receive notification:
 toEmail = 'destinationemail@gmail.com'
 
-- Subject Text
+- Subject Text:
 subjectText = 'Workers are down: '
 
-- Email Body Text
+- Email Body Text:
 body = "Time is money!."
