@@ -34,16 +34,17 @@ body = "Time is money!."
 
 <br />
 v1.1 adds the following fields<br /><br />
-- Your Pushover token<br />
+
+- Your Pushover token: <br />
 pushoverToken = 'Your-Pushover-Application-Token'
 
-- Your userkey - device you want to target<br />
+- Your userkey - device you want to target: <br />
 pushoverUserKey = 'Your-Pushover-User-Key'
 
-- Notification Message <br />
+- Notification Message: <br />
 notificationMessage = 'Miners stopped: '
 
-- Notification Title <br />
+- Notification Title: <br />
 notificationTitle = 'Workers offline'
 
 # Notes
