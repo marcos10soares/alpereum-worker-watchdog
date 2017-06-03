@@ -1,6 +1,6 @@
 from __future__ import print_function
 from pushover import init, Client
-import os, sys
+import os, sys 
 from config import *
 import urllib
 #import threading
