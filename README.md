@@ -32,7 +32,8 @@ subjectText = 'Workers are down: '
 - Email Body Text:<br />
 body = "Time is money!."
 
-- v1.1 adds the following fields<br /><br />
+<br />
+v1.1 adds the following fields<br /><br />
 - Your Pushover token<br />
 pushoverToken = 'Your-Pushover-Application-Token'
 
